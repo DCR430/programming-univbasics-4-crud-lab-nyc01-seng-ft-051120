@@ -41,6 +41,6 @@ end
 
 def update_element_from_index(array, index_number, element)
   array=["wow","gloria","arrays!"]
-  array[2] = "Daniel"
+  array[2] = "totallyS"
 
 end
