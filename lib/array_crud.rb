@@ -23,7 +23,7 @@ arrays_array = array.shift
 end
 
 def retrieve_element_from_index(array, index_number)
-array=["oliver","gloria","daniel"]
+array=["am","gloria","daniel"]
 array [0]
 end
 
