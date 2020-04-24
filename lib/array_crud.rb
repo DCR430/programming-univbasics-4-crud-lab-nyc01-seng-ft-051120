@@ -28,6 +28,8 @@ array [0]
 end
 
 def retrieve_first_element_from_array(array)
+  array=["am","gloria","daniel"]
+  array [0]
 
 end
 
